@@ -1,4 +1,4 @@
----
+
 
 # BLM101 – Ağlar, İnternet ve HTML Dönem Projesi
 
@@ -107,3 +107,4 @@ BLM101_24360859059_Emirhan_Arda_Sumertas/
 ## Sonuç
 Bu proje sayesinde internet ve web kavramları teorik ve uygulamalı olarak
 öğrenilmiş, Python ile HTML üretmenin temel mantığı anlaşılmıştır.
+
